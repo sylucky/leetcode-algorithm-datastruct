@@ -9,4 +9,4 @@ visit [967.numbers-with-same-consecutive-differences](https://github.com/sylucky
 
 visit [973.k-closest-points-to-origin](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/973.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9)
 
-visit [973.largest-perimeter-triangle](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/973.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8E%9F%E7%82%B9%E7%9A%84%20K%20%E4%B8%AA%E7%82%B9)
+visit [976.largest-perimeter-triangle](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/976.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%91%A8%E9%95%BF)
