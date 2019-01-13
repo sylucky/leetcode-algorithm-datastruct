@@ -122,3 +122,36 @@ list的数据类型定义了一个结构体nodedata，nodedata为原点平方和
 
         return result;
     }
+
+### 容器选用map存放
+定义容器的时候用stl提供的less函数对象，相对应的减序用greater。 
+
+    //map容器，增序容器
+    map<int, vector<int>, less<int>> point_map;
+    vector<vector<int>> result;
+
+    //边界值处理
+    if (points.size() < K)
+        return result;
+    else if (points.size() == K)
+        return points;
+
+    //计算平方和
+    int i = 0;
+    for (auto& elem : points)
+    {
+        long j = pow(elem[0], 2) + pow(elem[1], 2);
+        point_map[j] = points[i++];
+    }
+    
+    i = 0;
+    for (auto& elem : point_map)
+    {
+        if (i >= K)
+            break;
+
+        result.push_back(elem.second);
+        i++;
+    }
+
+    return result;
