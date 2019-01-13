@@ -68,3 +68,57 @@ sum[value,i]：把平方和的值作为数组第一个元素，方便排序，i�
         }
         return result;
     }
+
+### 容器选用链表存放
+list的数据类型定义了一个结构体nodedata，nodedata为原点平方和与点的结构体。定义函数对象nodedataCompare比较list大小。
+
+    struct nodedata
+    {
+        int value;
+        vector<int> point;
+    };
+    struct nodedataCompare
+    {
+        bool operator()(const nodedata& a, const nodedata& b)
+        {
+            return a.value < b.value;
+        }
+    };
+    vector<vector<int>> Solution::kClosest(vector<vector<int>>& points, int K)
+    {
+        //链表容器
+        list<nodedata> list;
+        vector<vector<int>> result;
+        nodedata node;
+
+        //边界值处理
+        if (points.size() < K)
+            return result;
+        else if (points.size() == K)
+            return points;
+
+        //计算平方和
+        int i = 0;
+        for (auto& elem : points)
+        {
+            long j = pow(elem[0], 2) + pow(elem[1], 2);
+            node.value = j;
+            node.point = points[i];
+            list.push_back(node);
+            i++;
+        }
+
+        list.sort(nodedataCompare());
+
+        i = 0;
+        for (auto& elem : list)
+        {
+            if (i >= K)
+                break;
+
+            result.push_back(elem.point);
+            i++;
+        }
+
+        return result;
+    }
