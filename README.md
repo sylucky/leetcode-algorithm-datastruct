@@ -12,3 +12,5 @@ visit [973.k-closest-points-to-origin](https://github.com/sylucky/leetcode-algor
 visit [974.subarray-sums-divisible-by-k](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/974.%20%E5%92%8C%E5%8F%AF%E8%A2%AB%20K%20%E6%95%B4%E9%99%A4%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)
 
 visit [976.largest-perimeter-triangle](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/976.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%91%A8%E9%95%BF)
+
+visit [984.string-without-aaa-or-bbb](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/976.%20%E4%B8%89%E8%A7%92%E5%BD%A2%E7%9A%84%E6%9C%80%E5%A4%A7%E5%91%A8%E9%95%BF)
