@@ -15,4 +15,4 @@ visit [976.largest-perimeter-triangle](https://github.com/sylucky/leetcode-algor
 
 visit [984.string-without-aaa-or-bbb](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/984.%20%E4%B8%8D%E5%90%ABAAA%E6%88%96BBB%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
-visit [989.add-to-array-form-of-integer](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/984.%20%E4%B8%8D%E5%90%ABAAA%E6%88%96BBB%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2)
+visit [989.add-to-array-form-of-integer](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95)
