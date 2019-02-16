@@ -17,8 +17,8 @@ visit [984.string-without-aaa-or-bbb](https://github.com/sylucky/leetcode-algori
 
 visit [989.add-to-array-form-of-integer](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95)
 
-visit [844.backspace-string-compare](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95)
+visit [844.backspace-string-compare](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/844.%20%E6%AF%94%E8%BE%83%E5%90%AB%E9%80%80%E6%A0%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2)
 
-visit [845.longest-mountain-in-array](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95)
+visit [845.longest-mountain-in-array](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/845.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E5%B1%B1%E8%84%89)
 
-visit [846.hand-of-straights](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/989.%20%E6%95%B0%E7%BB%84%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%95%B4%E6%95%B0%E5%8A%A0%E6%B3%95)
+visit [846.hand-of-straights](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/846.%20%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90)
