@@ -22,3 +22,10 @@ visit [844.backspace-string-compare](https://github.com/sylucky/leetcode-algorit
 visit [845.longest-mountain-in-array](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/845.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E5%B1%B1%E8%84%89)
 
 visit [846.hand-of-straights](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/846.%20%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90)
+
+visit [997.find-the-town-judge](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/846.%20%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90)
+
+visit [998.maximum-binary-tree-ii](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/998.maximum-binary-tree-ii)
+
+visit [999.available-captures-for-rook](https://github.com/sylucky/leetcode-algorithm-datastruct/tree/master/algorithm/cpp/846.%20%E4%B8%80%E6%89%8B%E9%A1%BA%E5%AD%90)
+
